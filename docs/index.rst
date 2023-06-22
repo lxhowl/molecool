@@ -13,7 +13,8 @@ Welcome to molecool's documentation!
    getting_started
    api
 
-
+This package has utilities to compute properties of molecules
+given different input file formats such as XYZ or PBD.
 
 Indices and tables
 ==================
